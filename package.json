@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-cretia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier configuration by Cretia",
   "main": "config.json",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com-cesargdm:cretia-app/prettier-config-cretia.git"
+    "url": "git@github.com:cretia-app/prettier-config-cretia.git"
   },
   "author": "",
   "license": "ISC",
